@@ -1,0 +1,2 @@
+# selfmaven
+maven center
